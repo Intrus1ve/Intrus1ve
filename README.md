@@ -15,9 +15,8 @@
 </p>
 
 <p align="left">
-  <a href="https://:::Intrus1ve" alt="Telegram">
+
   <img src="https://img.shields.io/badge/-Telegram-blue" /></a>
 
-  <a href="Intrus1ve#9461" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-red" /></a>
 </p>  
