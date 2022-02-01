@@ -3,7 +3,7 @@
 ## Hello!
 
 <p align="left">
-  🦄 My name is <strong>Ömer</strong> and I'm 18 years old! I'm interests with <strong>Cyber Security &</strong>, <strong>Software Development</strong>, <strong>.NET Technologies</strong>
+  🦄 My name is <strong>Ömer</strong> and I'm 18 years old! I'm interests with <strong>Cyber Security Reverse Engineering & Malware Analysis</strong>, <strong>Software Development</strong>, <strong>.NET Technologies</strong>
 </p>
 
 <p align="left">
