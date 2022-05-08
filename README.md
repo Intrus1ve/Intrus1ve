@@ -18,5 +18,5 @@
 
   <img src="https://img.shields.io/badge/-Telegram-blue" /></a> Intrus1ve
 
-  <img src="https://img.shields.io/badge/-Discord-red" /></a> Intrus1ve#9461
+  <img src="https://img.shields.io/badge/-Discord-red" /></a> :/
 </p>  
